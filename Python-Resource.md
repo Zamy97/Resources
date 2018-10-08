@@ -13,5 +13,7 @@
 
 ** Here's link that is good to learn python for beginners:  https://github.com/noisebridge/PythonClass
 
+## [A video on getting started with python](https://www.youtube.com/watch?v=oy4GOI9vn5M)
+
 
 
