@@ -5,3 +5,5 @@
 ## [Learn to make bots](https://tutorials.botsfloor.com/)
 
 ## [build a node express app](https://medium.freecodecamp.org/how-to-write-a-production-ready-node-and-express-app-f214f0b17d8c)
+
+## [An article on Web-Scraping](https://hackernoon.com/web-scraping-tutorial-with-python-tips-and-tricks-db070e70e071)
