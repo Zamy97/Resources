@@ -2,8 +2,8 @@
 
 ** Here's a course from Google on python: https://developers.google.com/edu/python/
 
-** Here's one of the best book on learing python: https://github.com/MrAlex6204/Books/blob/master/python-crash-course.pdf
---> Solution of python crash course: https://github.com/ehmatthes/pcc
+## [Here's one of the best book on learing python: Python Crash Course](https://github.com/MrAlex6204/Books/blob/master/python-crash-course.pdf)
+## *[Python Crash course solution](https://ehmatthes.github.io/pcc/index.html)
 
 ** Another great book on python: Python For Kids--> https://doc.lagout.org/programmation/python/Python%20for%20Kids_%20A%20Playful%20Introduction%20to%20Programming%20%5BBriggs%202012-12-22%5D.pdf
 
