@@ -15,5 +15,3 @@
 
 ## [A video on getting started with python](https://www.youtube.com/watch?v=oy4GOI9vn5M)
 
-
-
