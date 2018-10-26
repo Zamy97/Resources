@@ -9,9 +9,9 @@
 
 ## [Here's another best book to learn python](https://www.souravsengupta.com/cds2015/python/LPTHW.pdf)
 
-** Here's a link to learn python the hard way: https://learnpythonthehardway.org/python3/
+## [Here's a link to learn python the hard way](https://learnpythonthehardway.org/python3/)
 
-** Here's link that is good to learn python for beginners:  https://github.com/noisebridge/PythonClass
+## [Here's link that is good to learn python for beginners](https://github.com/noisebridge/PythonClass)
 
 ## [A video on getting started with python](https://www.youtube.com/watch?v=oy4GOI9vn5M)
 
