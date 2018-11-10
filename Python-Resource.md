@@ -15,3 +15,5 @@
 
 ## [A video on getting started with python](https://www.youtube.com/watch?v=oy4GOI9vn5M)
 
+## [Data Strecture using python](https://interactivepython.org/courselib/static/pythonds/index.html#problem-solving-with-algorithms-and-data-structures-using-python)
+
