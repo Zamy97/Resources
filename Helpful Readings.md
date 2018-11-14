@@ -17,3 +17,5 @@
 ## [Become a googler in 4 weeks](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/)
 
 ## [former googlers blog on getting jobs at google](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+
+## [one of google's interview question deconstructed](https://hackernoon.com/google-interview-questions-deconstructed-the-knights-dialer-f780d516f029)
