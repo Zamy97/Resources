@@ -13,3 +13,7 @@
 ## [What can you build with python](https://medium.freecodecamp.org/what-can-you-do-with-python-the-3-main-applications-518db9a68a78)
 
 ## [Learn things quickly](http://norvig.com/21-days.html)
+
+## [Become a googler in 4 weeks](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/)
+
+## [former googlers blog on getting jobs at google](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
