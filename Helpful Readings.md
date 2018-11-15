@@ -19,3 +19,5 @@
 ## [former googlers blog on getting jobs at google](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 
 ## [one of google's interview question deconstructed](https://hackernoon.com/google-interview-questions-deconstructed-the-knights-dialer-f780d516f029)
+
+## [Five things to expect if you work at google](https://www.linkedin.com/pulse/5-obvious-so-things-expect-when-you-work-google-richard-garcia/)
