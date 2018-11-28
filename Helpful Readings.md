@@ -23,3 +23,5 @@
 ## [Five things to expect if you work at google](https://www.linkedin.com/pulse/5-obvious-so-things-expect-when-you-work-google-richard-garcia/)
 
 ## [50 data strecture questions](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+
+## [About Open source](https://blog.kentcdodds.com/first-timers-only-78281ea47455)
