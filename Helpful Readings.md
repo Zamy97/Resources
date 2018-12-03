@@ -27,3 +27,5 @@
 ## [About Open source](https://blog.kentcdodds.com/first-timers-only-78281ea47455)
 
 ## [Node Api tutorial](https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2)
+
+## [Passport tutorial](https://medium.freecodecamp.org/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e)
