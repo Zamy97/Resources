@@ -33,3 +33,5 @@
 ## [Authentication tutorial](https://medium.com/createdd-notes/starting-with-authentication-a-tutorial-with-node-js-and-mongodb-25d524ca0359)
 
 https://medium.freecodecamp.org/introduction-to-imba-the-alternative-to-javascript-e2aa1e3d1769
+
+https://medium.freecodecamp.org/introduction-to-mongoose-for-mongodb-d2a7aa593c57
