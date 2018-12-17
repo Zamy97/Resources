@@ -6,6 +6,6 @@
 
 ## [Make get/post stuff easier with this software](https://www.getpostman.com/)
 
-https://github.com/GoogleCloudPlatform/nodejs-docs-samples
+## [Google's node documentation](https://github.com/GoogleCloudPlatform/nodejs-docs-samples)
 
-https://cloud.google.com/nodejs/getting-started/tutorial-app
+## [Google's node tutorial](https://cloud.google.com/nodejs/getting-started/tutorial-app)
