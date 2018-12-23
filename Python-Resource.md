@@ -20,3 +20,5 @@
 ## [ CS 61A from UC Berkeley](https://cs61a.org/)
 
 ## [Think Python](http://greenteapress.com/wp/think-python/)
+
+## [List of books in Python from Python.org](https://wiki.python.org/moin/IntroductoryBooks)
