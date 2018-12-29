@@ -35,3 +35,5 @@
 https://medium.freecodecamp.org/introduction-to-imba-the-alternative-to-javascript-e2aa1e3d1769
 
 https://medium.freecodecamp.org/introduction-to-mongoose-for-mongodb-d2a7aa593c57
+
+## [An article about logn on Big O running time](https://hackernoon.com/what-does-the-time-complexity-o-log-n-actually-mean-45f94bb5bfbf)
