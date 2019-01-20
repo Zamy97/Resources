@@ -22,3 +22,5 @@
 ## [Think Python](http://greenteapress.com/wp/think-python/)
 
 ## [List of books in Python from Python.org](https://wiki.python.org/moin/IntroductoryBooks)
+
+## [Tutorial on Django](https://media.readthedocs.org/pdf/django/2.1.x/django.pdf)
