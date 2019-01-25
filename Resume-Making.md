@@ -9,3 +9,5 @@
 ## [Resume Sample from MS](https://docs.google.com/document/d/1NVwXb59D9o5R_7R9XYAfOJ7HvtxPGsibE2yVdB9q7lo/edit)
 
 ## [Behavior questions from Make School](https://docs.google.com/presentation/d/1B7NElogYNBRvqPe_QEuuBWnt2xn6j9ftsvhrIWGA5gY/edit)
+
+## [Linkedin Tips from Jeff Make School](https://docs.google.com/document/d/1mBZAtP2UbccCLIVx3wLm8cx7EuOhAWMWcCVOjGwNT1Y/edit)
