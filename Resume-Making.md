@@ -7,3 +7,5 @@
 ## [JOb hunt checklist from Make School](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.9n0n8v9i08jn)
 
 ## [Resume Sample from MS](https://docs.google.com/document/d/1NVwXb59D9o5R_7R9XYAfOJ7HvtxPGsibE2yVdB9q7lo/edit)
+
+## [Behavior questions from Make School](https://docs.google.com/presentation/d/1B7NElogYNBRvqPe_QEuuBWnt2xn6j9ftsvhrIWGA5gY/edit)
