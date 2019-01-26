@@ -37,3 +37,5 @@ https://medium.freecodecamp.org/introduction-to-imba-the-alternative-to-javascri
 https://medium.freecodecamp.org/introduction-to-mongoose-for-mongodb-d2a7aa593c57
 
 ## [An article about logn on Big O running time](https://hackernoon.com/what-does-the-time-complexity-o-log-n-actually-mean-45f94bb5bfbf)
+
+## [Amazing read on how to get into tech field](https://medium.freecodecamp.org/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d)
