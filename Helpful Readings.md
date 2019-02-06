@@ -39,3 +39,5 @@ https://medium.freecodecamp.org/introduction-to-mongoose-for-mongodb-d2a7aa593c5
 ## [An article about logn on Big O running time](https://hackernoon.com/what-does-the-time-complexity-o-log-n-actually-mean-45f94bb5bfbf)
 
 ## [Amazing read on how to get into tech field](https://medium.freecodecamp.org/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d)
+
+## [A reading on web scraping](https://www.codementor.io/blog/python-web-scraping-63l2v9sf2q?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-546ttpb9nd&utm_campaign=newsletter20190206)
