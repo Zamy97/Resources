@@ -26,3 +26,5 @@
 ## [Tutorial on Django](https://media.readthedocs.org/pdf/django/2.1.x/django.pdf)
 
 ## [Terminal envirment for python](https://docs.python.org/3.4/using/cmdline.html)
+
+## [A great explanation on python stuff](https://sequoia-tree.github.io/techniques-in-computer-science/variables.html)
