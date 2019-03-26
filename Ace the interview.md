@@ -8,4 +8,4 @@
 
 ## [Another resource for coding interview](https://github.com/yangshun/tech-interview-handbook)
 
-## [Cracking coding interview book pdf](https://github.com/jwang5675/ctci/blob/master/Cracking%20the%20Coding%20Interview%206th%20Edition.pdf)
+## [Cracking coding interview book pdf](https://slack-files.com/files-pri-safe/T1D4KRBR8-FH5AQKXA8/cracking_the____coding_interview___pdfdrive.com__.pdf?c=1553120553-d69588cbf9eb65ce47db884727ebd9c909641624)
