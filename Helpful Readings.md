@@ -41,3 +41,5 @@ https://medium.freecodecamp.org/introduction-to-mongoose-for-mongodb-d2a7aa593c5
 ## [Amazing read on how to get into tech field](https://medium.freecodecamp.org/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d)
 
 ## [A reading on web scraping](https://www.codementor.io/blog/python-web-scraping-63l2v9sf2q?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-546ttpb9nd&utm_campaign=newsletter20190206)
+
+## [How she got an internship at NASA](https://astrokayla.wordpress.com/2019/03/10/i-got-a-nasa-internship/)
