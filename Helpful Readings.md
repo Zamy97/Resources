@@ -47,3 +47,5 @@ https://medium.freecodecamp.org/introduction-to-mongoose-for-mongodb-d2a7aa593c5
 ## [A nice reading on how to prepare for the interview](https://www.reddit.com/r/cscareerquestions/comments/9i0pow/graduated_with_a_24_gpa_1_year_ago_after_studying/?utm_source=share&utm_medium=ios_app)
 
 ## [A nice reading about getting an internship at Apple](https://medium.com/@xanderdunn/getting-an-apple-software-engineering-internship-9a7b0d9de910)
+
+## [Help with cold emailing](https://www.entrepreneur.com/article/314465)
