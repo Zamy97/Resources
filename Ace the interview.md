@@ -9,3 +9,5 @@
 ## [Another resource for coding interview](https://github.com/yangshun/tech-interview-handbook)
 
 ## [Cracking coding interview book pdf](https://slack-files.com/files-pri-safe/T1D4KRBR8-FH5AQKXA8/cracking_the____coding_interview___pdfdrive.com__.pdf?c=1553120553-d69588cbf9eb65ce47db884727ebd9c909641624)
+
+## [Google dev guide and practice interviews](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string#!)
