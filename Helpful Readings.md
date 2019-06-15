@@ -49,3 +49,5 @@ https://medium.freecodecamp.org/introduction-to-mongoose-for-mongodb-d2a7aa593c5
 ## [A nice reading about getting an internship at Apple](https://medium.com/@xanderdunn/getting-an-apple-software-engineering-internship-9a7b0d9de910)
 
 ## [Help with cold emailing](https://www.entrepreneur.com/article/314465)
+
+## [Step by step to get through the application process](https://www.freecodecamp.org/news/how-to-go-through-the-job-application-process-an-interview-with-chris-lienert-2/)
