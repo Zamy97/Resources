@@ -13,3 +13,5 @@
 ## [Linkedin Tips from Jeff Make School](https://docs.google.com/document/d/1mBZAtP2UbccCLIVx3wLm8cx7EuOhAWMWcCVOjGwNT1Y/edit)
 
 ## [Resume Maker](https://www.resumonk.com/)
+
+## [A list of action words for writing best resume and stuff](https://www.engineering.cornell.edu/sites/default/files/users/user240/Action%20Words%20for%20ENG%20(website).pdf)
