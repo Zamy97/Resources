@@ -28,3 +28,5 @@
 ## [Terminal envirment for python](https://docs.python.org/3.4/using/cmdline.html)
 
 ## [A great explanation on python stuff](https://sequoia-tree.github.io/techniques-in-computer-science/variables.html)
+
+## [Full stack python-All in one](https://www.fullstackpython.com/table-of-contents.html)
