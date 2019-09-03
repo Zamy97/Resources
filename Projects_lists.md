@@ -3,3 +3,5 @@
 ## [List of projects](http://www.ideamachine.io/#view-ideas-top)
 
 ## [Integrate Google Voice in your project using this](https://sphinxdoc.github.io/pygooglevoice/)
+
+## [IDEA of making a google assistant like system to help my uncle play songs on youtube](https://developers.google.com/actions/assistant/)
