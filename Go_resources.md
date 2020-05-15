@@ -4,5 +4,4 @@
 
 ## Create API using GO
 1. https://tutorialedge.net/golang/creating-restful-api-with-golang/
- * The video of the api tutorial
  
