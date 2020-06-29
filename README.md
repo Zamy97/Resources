@@ -1,4 +1,4 @@
-# Resources that I might find helpful at times.
+# Resources that I might find helpful sometime in the future.
 
 This repo will hold links of resources that one might find helpful to become a successfull developer.
 
