@@ -11,5 +11,3 @@
 ## [Open Cv tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 
 ## [Open cv getting started with video](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html)
-
-## [
