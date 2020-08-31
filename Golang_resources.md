@@ -4,4 +4,7 @@
 
 ## Create API using GO
 1. https://tutorialedge.net/golang/creating-restful-api-with-golang/
+
+## Learn go by example and make little videos!
+1. https://gobyexample.com/hello-world
  
