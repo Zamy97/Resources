@@ -4,4 +4,4 @@
 
 ## [Grow with google](https://grow.google/)
 
-## [Deploy your django on google aws](https://cloud.google.com/python/django)
+## [Deploy your django on google cloud](https://cloud.google.com/python/django)
