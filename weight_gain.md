@@ -9,7 +9,6 @@
 * [Beginners guide to fitness](http://liamrosen.com/fitness.html)
 
 
-
 ## Workout Videos on youtube
 
 [TRX full body workout](https://www.youtube.com/watch?v=4ZR25UheGpA&list=PLRJeTsJZogdIfXTOyYq-pu0tSsCojXR5i)
